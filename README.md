@@ -2,7 +2,7 @@
 (FastAPI, PostgreSQL и SQLAlchemy)</h1>
 
 Проект доступен по ссылке <br>  
-https://github.com/Siktorovich/Wiki-Service-Project.git
+https://github.com/Siktorovich/Wiki-import-project.git
 
 <h2>Подготовка</h2>
 <p>Установите PostgreSQL и создайте там пользователя
